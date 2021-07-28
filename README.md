@@ -3,9 +3,9 @@
 </h1>
 
 <h1 align="center">
-<img width="800" src="assets/img/presentation.png" alt="My cool logo"/>
-<img width="800" src="assets/img/presentation1.png" alt="My cool logo"/>
-<img width="800" src="assets/img/presentation2.png" alt="My cool logo"/>
+<img width="800" src="assets/images/presentation.png" alt="My cool logo"/>
+<img width="800" src="assets/images/presentation1.png" alt="My cool logo"/>
+<img width="800" src="assets/images/presentation2.png" alt="My cool logo"/>
   </h1>
 
 <h3 align="center">
